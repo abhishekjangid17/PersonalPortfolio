@@ -29,7 +29,7 @@ const About = () => {
                 // 'App Developer',
                 // 'UI/UX Designer',
                 // 'Coder',
-                'NodeJS Developer'
+                'MERN/NodeJS Developer'
               ]}
               speed={100}
               eraseSpeed={50}
@@ -47,14 +47,15 @@ const About = () => {
             back-end development, I specialize in the MERN stack and other
             modern technologies to create seamless user experiences and
             efficient solutions. */}
-            Node.js Developer with strong backend expertise in building and deploying scalable applications using
-            Express.js and MongoDB. Experienced in developing RESTful APIs, integrating authentication, and
-           collaborating on real-world projects. Solid analytical foundation from IIT JEE preparation, bringing discipline
-           and problem-solving skills
+            MERN Stack Developer with hands-on experience in building and deploying scalable full-stack applications.
+           Skilled in Node.js, Express.js, and MongoDB for backend development, with solid knowledge of React.js and
+           modern frontend practices. Experienced in designing secure RESTful APIs, authentication systems, and
+           production-ready deployments. Collaborative team player with strong problem-solving skills, eager to deliver
+           optimized solutions and contribute to high-impact projects.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1Z8-7FdgxZxP94Vq7rdBkbSNipbqzpoHW/view"
+            href="https://drive.google.com/file/d/1Gf1IgNqUhbptGDOBaG-SjBffb4fdp_wi/view"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
