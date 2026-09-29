@@ -220,7 +220,7 @@ export const SkillsInfo = [
       webapp: "https://blogging-web-app-gamma.vercel.app/",
     },
     {
-      id: 3,
+      id: 1,
       title: "MERN Bookstore",
       description:
         "Online Bookstore website, user can easily add books and browser books after Signup,login as well as Implemented backend logic to support real-time UI responsiveness via Zustand-managed state on frontend",
@@ -240,7 +240,7 @@ export const SkillsInfo = [
       webapp: "https://ajcars1.netlify.app/",
     },
     {
-      id: 1,
+      id: 3,
       title: "Client-Portal",
       description:
         "Developed a SaaS-based client management platform that enables organizations to manage clients, projects, and tasks through a centralized dashboard with secure role-based access",
