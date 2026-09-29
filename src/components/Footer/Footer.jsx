@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             // { icon: <FaFacebook />, link: "https://www.facebook.com/tarun.kaushik.3511041/" },
-            { icon: <FaTwitter />, link: "https://x.com/abhishek17web" },
+            { icon: <FaTwitter />, link: "https://x.com/abhishekjweb" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/abhishekjangid17/" },
             // { icon: <FaInstagram />, link: "https://www.instagram.com/coding_.master/" },
             // { icon: <FaYoutube />, link: "https://www.youtube.com/codingmasteryt" },

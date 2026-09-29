@@ -174,7 +174,7 @@ export const SkillsInfo = [
       id: 0,
       img: glaLogo,
       school: "Apex University, Jaipur",
-      date: "Sept 2021 - July 2024",
+      date: "July 2021 - July 2024",
       grade: "7.23 CGPA",
       desc: "I have completed my Bachelor's degree (BCA) in Computer Applications from Apex University, Jaipur. During my time at AU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Web development, Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems and Softwares. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Apex University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelor of Computer Applications - BCA",
@@ -217,7 +217,7 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["Nodejs", "ExpressJS", "JavaScript", "React JS", "MongoDb"],
       github: "https://github.com/abhishekjangid17/BloggingWebApp",
-      webapp: "https://mern-bookstore-livid.vercel.app/",
+      webapp: "https://blogging-web-app-gamma.vercel.app/",
     },
     {
       id: 1,
@@ -239,16 +239,16 @@ export const SkillsInfo = [
       github: "https://github.com/abhishekjangid17/AJ_RentalCars",
       webapp: "https://ajcars1.netlify.app/",
     },
-    // {
-    //   id: 3,
-    //   title: "Awesome Todo App",
-    //   description:
-    //     "A responsive and minimalistic task management app that focuses on create,read,delete. used CRUD functionality with Dynamic UI with Tailwind CSS.",
-    //   image: npmLogo,
-    //   tags: ["React JS", "Node.js", "NPM", "Validation", "MongoDb"],
-    //   github: "https://github.com/abhishekjangid17/TodoApp",
-    //   webapp: "https://todoapp-dx6g.onrender.com/",
-    // },
+    {
+      id: 3,
+      title: "Client-Portal",
+      description:
+        "Developed a SaaS-based client management platform that enables organizations to manage clients, projects, and tasks through a centralized dashboard with secure role-based access",
+      image: npmLogo,
+      tags: ["React JS", "Node.js", "NPM", "Validation", "MongoDb", "Kanban board"],
+      github: "https://github.com/abhishekjangid17/Client-Portal",
+      webapp: "https://client-portal-inky-three.vercel.app/",
+    },
     {
       id: 4,
       title: "MERN-Ecommerce",
